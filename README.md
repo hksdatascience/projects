@@ -1,2 +1,5 @@
-# projects
-Projects for the HKS Data Science Club
+# Projects
+
+#### Week 1: Titanic
+https://www.kaggle.com/c/titanic
+
